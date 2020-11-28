@@ -1,0 +1,7 @@
+*.map
+*.d
+*.o
+*.asm
+*.i
+*.zip
+c1m2.out
